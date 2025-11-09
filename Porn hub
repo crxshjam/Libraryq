@@ -8210,7 +8210,7 @@ return { Spritesheets = {
         ImageRectSize = Vector2.new(128, 128),
         Image = 26,
     },
-}}}
+}
 
 local function getIcon(iconInput)
     if not iconInput then
